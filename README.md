@@ -1,2 +1,2 @@
 # openjdk9-openj9-releases
-openj9 release repo
+Eclipse openj9 release repo
