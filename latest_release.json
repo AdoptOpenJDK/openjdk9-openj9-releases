@@ -186,7 +186,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 109,
-      "download_count": 86,
+      "download_count": 87,
       "created_at": "2017-09-16T09:42:41Z",
       "updated_at": "2017-09-16T09:42:41Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-openj9-releases/releases/download/jdk-9%2B181/OpenJDK9-OPENJ9_x64_Linux_jdk-9.181.sha256.txt"
