@@ -13,7 +13,7 @@ The AdoptOpenJDK OpenJDK binaries are not yet fully tested (JCK/TCK + further te
 
 ## Download OpenJDK Release binaries
 
-Find all the prebuilt AdoptOpenJDK OpenJDK with OpenJ9 release binaries [here](https://github.com/AdoptOpenJDK/openjdk9-openj9-releases)
+Find all the prebuilt AdoptOpenJDK OpenJDK with OpenJ9 release binaries [here](https://adoptopenjdk.net/archive.html?variant=openjdk9-openj9)
 
 ## Built Platforms
 
